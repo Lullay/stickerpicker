@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "ponies.json"
+  ],
+  "homeserver_url": "https://matrix-server.matrix.horse"
+}
